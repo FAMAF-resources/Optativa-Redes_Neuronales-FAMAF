@@ -1,20 +1,24 @@
-![GitHub Repo Size](https://img.shields.io/github/repo-size/FAMAF-resources/Template-repository)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/FAMAF-resources/Optativa-Redes_Neuronales-FAMAF)
 
-# Materia - FAMAF - Computacion
+# Redes Neuronales - FAMAF - Computacion
 
-> Cuatrimestre
+> 2C (generalmente)
+
+Puntaje: 120
 
 ## Correlativas para **cursar**
 
 | Materia               | Condición    |
 | --------------------- | ------------ |
-| -   | Aprobada     |
+| Analisis Matematico II   | Aprobada     |
+| Probabilidad y Estadistica   | Regularizada     |
 
 ## Correlativas para **aprobar**
 
 | Materia               | Condición    |
 | --------------------- | ------------ |
-| -   | Aprobada     |
+| Analisis Matematico II   | Aprobada     |
+| Probabilidad y Estadistica   | Aprobada     |
 
 ## Es correlativa de:
 
@@ -22,16 +26,22 @@
 
 ## Clonar el repositorio`
 
-> http
+**https**
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/FAMAF-resources/Optativa-Redes_Neuronales-FAMAF.git
 ```
 
-> ssh
+**ssh (recomendado)**
 
 ```bash
-git clone <repo-url>
+git clone git@github.com:FAMAF-resources/Optativa-Redes_Neuronales-FAMAF.git
+```
+
+## Update
+
+```bash
+git pull && git submodule update --init --recursive
 ```
 
 ## Aula virtual
@@ -45,6 +55,6 @@ Este es un proyecto con fines de facilitar el acceso al material para estudio.
 Cualquier persona puede realizar su aporte con apunte, resumen, libro, o actualizacion de este repositoro. Puede ser realizado por una pull request (PR) o comunicarse con los administradores.
 
 # Contributors
-<a href="https://github.com/FAMAF-resources/Template-repository/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=FAMAF-resources/Template-repository"/>
+<a href="https://github.com/FAMAF-resources/Optativa-Redes_Neuronales-FAMAF/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=FAMAF-resources/Optativa-Redes_Neuronales-FAMAF" height="50"/>
 </a>
