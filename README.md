@@ -20,6 +20,24 @@ Puntaje: 120
 | Analisis Matematico II   | Aprobada     |
 | Probabilidad y Estadistica   | Aprobada     |
 
+## Correlativas de otras carreras
+Revisar en: [Correlativas](https://www.famaf.unc.edu.ar/~ftamarit/redes2023/correlatividades_2023.html)
+
+## Alcance de la materia
+Como curso de grado
+- Optativa de la Licenciatura en Cs. de la Computación
+- Optativa de la Licenciatura en Matemática Aplicada de FAMAF.
+- Especialidad de la Licenciatura en Física de FAMAF.
+- Especialidad de la Licenciatura en Matemática de FAMAF.
+- Materia de la Licenciatura en Economía de la FCE de la UNC.
+
+Como curso de posgrado
+- Curso de posgrado del Doctorado en Cs. de la Computación de FAMAF.
+- Curso de posgrado del Doctorado en Física de FAMAF.
+- Curso de posgrado del Doctorado en Matemática de FAMAF.
+
+
+
 ## Es correlativa de:
 
 - Ninguna.
@@ -44,9 +62,26 @@ git clone git@github.com:FAMAF-resources/Optativa-Redes_Neuronales-FAMAF.git
 git pull && git submodule update --init --recursive
 ```
 
-## Aula virtual
+## Pagina de la materia
+[2023](https://www.famaf.unc.edu.ar/~ftamarit/redes2023/)
 
-![example](url)
+## Aula virtual
+[Practico](https://github.com/jipphysics/redes-neuronales-2023)
+
+## Bibliografia
+Básica
+- Strogatz S.H., "Nonlinear dynamics and chaos" Addison-Wesley Publishing Company (1994).
+- Dayan P. and L. Abbott, "Theoretical neuroscience: computational and mathematical modeling of neural systems", MIT Press (2001).
+- T.M. Mitchell, "Machine Learning" McGraw-Hill (1997).
+- J. Hertz, A. Krogh and R.G Palmer, "Introduction to the theory of neural computation", Santa Fe Institute (1991).
+- Michael A. Nielsen, "Deep learning", Determination Press (2016).
+
+Complementarios
+- Izhikevich E.M., "Dynamical systems in neuroscience: the geometry of excitability and bursting", MIT Press (2006).
+- Rieke F., Warland D., de Tuyter van Steveninck R. and Bialek W., "Spikes: exploring the neural code", MIT Press (1999).
+- MacKay D.J.C., "Information theory, inference and learning algorithms", Cambridge University Press, (2003).
+- Hstie T., Tibshirani R. and Fiedman J, "The elements of statistical learning, data mining, inference and prediction", Springer Verlag (2001).
+- Ian Goodfellow, Yoshua Bengio and Aaron Courveille, "Deep learning", MIT Press (2016)
 
 # Contribuciones
 
